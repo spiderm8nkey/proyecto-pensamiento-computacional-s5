@@ -6,11 +6,12 @@ https://spiderm8nkey.github.io/proyecto-pensamiento-computacional-s5/
 
 ### Referencia de origen / bibliografía
 ![Plantilla](readme/plantilla/prtada.jpg)
+
 Linkin Park. (2012). Castle of Glass (canción). En Living Things. Warner Bros. Records.
 
 ### Imagen de referencia de proyecto
 
-Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Puede ser un fotograma de toda la interacción.
+![Plantilla](readme/plantilla/tada.png)
 
 ### Integrantes
 
