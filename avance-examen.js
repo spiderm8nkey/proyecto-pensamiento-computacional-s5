@@ -314,7 +314,7 @@ function fase3() {
   textoOculto();
   dibujarCastilloDerrumbado();
 
-  fill(100);
+  fill(250);
   noStroke();
   textAlign(CENTER, CENTER);
   textSize(125);
