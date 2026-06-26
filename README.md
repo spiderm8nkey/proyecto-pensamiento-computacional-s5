@@ -5,7 +5,7 @@ https://spiderm8nkey.github.io/proyecto-pensamiento-computacional-s5/
 ### Crack of Glass
 
 ### Referencia de origen / bibliografía
-
+![Plantilla](readme/plantilla/prtada.jpg)
 Linkin Park. (2012). Castle of Glass (canción). En Living Things. Warner Bros. Records.
 
 ### Imagen de referencia de proyecto
