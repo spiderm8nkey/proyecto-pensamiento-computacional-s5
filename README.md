@@ -27,11 +27,14 @@ Un castillo de cristal con un aviso de "¡cuidado! fragil" que es sensible al ta
 
 ### Storyboard
 
-Imágenes del storyboard, las que deben verse acá y estar subidas en el mismo repositorio
+![Plantilla](readme/plantilla/moon.jpg)
 
 ### Estados
 
-Describe acá los estados de tu máquina (mínimo 3 para proyectos individuales, 6 para parejas, 9 para tríos), y la condición de salida. Incluye la sección de código que muestra ese estado
+Estado base: El castillo se sensible al mouse, tambien se altera el fondo al acercar el mouse al castillo.
+Estado 1: Al hacer click sobre el caastillo se empieza a agrietar y el fondo reacciona a cada click.
+Estado 2: El castiillo se deteriora a medida que se acumulan clicks y el fondo reacciona con colores mas intensos.
+Estado 3 y final: El castillo colapsa porla acumulacion de clicks y se integra el scroll que termina de comprimirlo y aparece una frase junto con el "press R" que vuelve al estado 1. 
 
 #### Estado 1
 
