@@ -8,6 +8,8 @@ https://spiderm8nkey.github.io/proyecto-pensamiento-computacional-s5/
 ![Plantilla](readme/plantilla/prtada.jpg)
 
 Linkin Park. (2012). Castle of Glass (canción). En Living Things. Warner Bros. Records.
+La canción 'Castle Of Glass' de Linkin Park es una poderosa metáfora sobre la vulnerabilidad y la búsqueda de redención y sanación. La letra invita a una reflexión profunda sobre la condición humana, utilizando la imagen de un castillo de vidrio para representar la fragilidad del ser. La petición de ser llevado al río o ser lavado simboliza un deseo de purificación y de empezar de nuevo, libre de las toxinas emocionales o físicas que puedan afectar al individuo.
+
 
 ### Imagen de referencia de proyecto
 
